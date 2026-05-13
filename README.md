@@ -45,7 +45,7 @@ Student-Course-Management
 
 ---
 
-## How to Compile and Run
+## How to Compile and Run:
 
 ### Using Visual Studio
 
