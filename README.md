@@ -9,7 +9,7 @@ The system also saves student data in a file (`students.txt`) so that informatio
 
 ---
 
-## Features
+## Features:
 
 * Add a new student
 * Remove a student
