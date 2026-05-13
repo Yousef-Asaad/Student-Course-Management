@@ -47,7 +47,7 @@ Student-Course-Management
 
 ## How to Compile and Run:
 
-### Using Visual Studio
+### Using Visual Studio:
 
 1. Open Visual Studio.
 2. Open the project folder.
