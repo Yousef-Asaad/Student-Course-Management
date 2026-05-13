@@ -32,7 +32,7 @@ To run this project you need:
 
 ---
 
-## Project Structure
+## Project Structure:
 
 ```
 Student-Course-Management
