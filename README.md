@@ -22,7 +22,7 @@ The system also saves student data in a file (`students.txt`) so that informatio
 
 ---
 
-## Required Software
+## Required Software:
 
 To run this project you need:
 
