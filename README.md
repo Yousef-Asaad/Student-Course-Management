@@ -64,7 +64,7 @@ or click **Start Without Debugging**.
 
 ---
 
-## Program Menu
+## Program Menu:
 
 The program provides the following menu:
 
