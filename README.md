@@ -1,6 +1,6 @@
 # Student Course Management System (C++)
 
-## Project Description:
+## Project Description
 
 This project is a **C++ console application** designed to manage students and their enrolled courses.
 It allows the user to add students, remove students, search for students, enroll them in courses, and sort them based on GPA.
